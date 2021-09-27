@@ -82,7 +82,7 @@
 .col-md-9{ flex-basis: calc((100% / 12) * 9 ); max-width: calc((100% / 12) * 9 ) ;}
 .col-md-10{ flex-basis: calc((100% / 12) * 10 ); max-width: calc((100% / 12) * 10);}
 .col-md-11{ flex-basis: calc((100% / 12) * 11); max-width: calc((100% / 12) * 11) ;}
-.col-md-12{ flex-basis: calc((100% / 12) * 12); max-width: calc((100% / 12) * 12) ;}
+.col-md-12{ flex-basis: calc(100% / 12) * 12); max-width: calc((100% / 12) * 12) ;}
 
 /* offset md */
 .col-md-offset-0{margin-left: 0;}
