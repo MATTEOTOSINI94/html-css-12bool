@@ -65,6 +65,10 @@
 .col-sm-offset-10{ margin-left: calc((100% / 12) * 10 ); }
 .col-sm-offset-11{ margin-left: calc((100% / 12) * 11); }
 .col-sm-offset-12{ margin-left: calc((100% / 12) * 12); }
+
+.box-nasted{
+    font-size: 10px;
+}
 }
 @media only screen and (min-width: 768px) {
     .container{
@@ -98,6 +102,10 @@
 .col-md-offset-10{ margin-left: calc((100% / 12) * 10 ); }
 .col-md-offset-11{ margin-left: calc((100% / 12) * 11); }
 .col-md-offset-12{ margin-left: calc((100% / 12) * 12); }
+
+.box-nasted{
+    font-size: 14px;
+}
 }
 
 @media only screen and (min-width: 992px) {
@@ -132,4 +140,8 @@
 .col-lg-offset-10{ margin-left: calc((100% / 12) * 10 ); }
 .col-lg-offset-11{ margin-left: calc((100% / 12) * 11); }
 .col-lg-offset-12{ margin-left: calc((100% / 12) * 12); }
+
+.box-nasted{
+    font-size: 18px;
+}
 }
