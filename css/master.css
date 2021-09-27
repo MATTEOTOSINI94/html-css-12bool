@@ -11,7 +11,6 @@
 }
 
 .box-nasted{
-   
    background-color: blue;
    border: 1px solid white;
    padding: 10px;
@@ -20,14 +19,32 @@
    font-size: 7px;
    min-height: 35px;
 }
+.large{
+    min-height: 70px;
+}
+
+
 
 .row{
     display: flex;
     flex: wrap;
     flex-direction: row;
+    
+}
+.style-card{
+    justify-content: space-around;
+    align-items: center;
 }
 
+.style-card-space{
+    justify-content: space-between;
+    align-items: center;
+}
 .green{
     background-color: rgb(0, 230, 0);
+    border: 1px solid blue;
 }
 
+.alignment-row{
+    justify-content: center;
+}
