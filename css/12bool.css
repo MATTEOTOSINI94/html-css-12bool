@@ -67,7 +67,7 @@
 .col-sm-offset-12{ margin-left: calc((100% / 12) * 12); }
 
 .box-nasted{
-    font-size: 10px;
+    font-size: 9px;
 }
 }
 @media only screen and (min-width: 768px) {
@@ -104,7 +104,7 @@
 .col-md-offset-12{ margin-left: calc((100% / 12) * 12); }
 
 .box-nasted{
-    font-size: 14px;
+    font-size: 12px;
 }
 }
 
@@ -142,6 +142,6 @@
 .col-lg-offset-12{ margin-left: calc((100% / 12) * 12); }
 
 .box-nasted{
-    font-size: 18px;
+    font-size: 14px;
 }
 }

@@ -18,6 +18,7 @@
    text-align: center;
    color: white;
    font-size: 7px;
+   min-height: 35px;
 }
 
 .row{
@@ -25,3 +26,8 @@
     flex: wrap;
     flex-direction: row;
 }
+
+.green{
+    background-color: rgb(0, 230, 0);
+}
+
